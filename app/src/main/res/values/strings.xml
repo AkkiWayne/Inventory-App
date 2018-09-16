@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">InventoryApptry1</string>
+    <string name="edit_title_new_product">Add a Product</string>
+    <string name="edit_title_edit_existing_product">Edit Prduct</string>
+    <string name="editor_quantity_field_cant_be_empty">Quantity can Not be left blank</string>
+    <string name="editor_quantity_cant_be_less_then_0">Quantity can not be less than 0</string>
+    <string name="editor_fill_in">Please fill in the blank fields</string>
+    <string name="error_empty_field_name">Name of product?</string>
+    <string name="error_empty_field_price">Price of the product?</string>
+    <string name="error_empty_field_supplier_name">Supplier name?</string>
+    <string name="error_empty_field_supplier_phone_number">Supplier Phone number</string>
+    <string name="insert_item_failed">Item insertion failed</string>
+    <string name="insert_item_successful">Item insertion successful</string>
+    <string name="delete_dialog_msg">Do you want to delete?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancle</string>
+    <string name="unsaved_changes_dialog_msg">You have unsaved changes</string>
+    <string name="discard">Dicard</string>
+    <string name="keep_editing">Keep editing</string>
+    <string name="delete_product_failed">Deleting product failed</string>
+    <string name="delete_product_successful">Deleting product Successful</string>
+    <string name="update_item_failed">Product not updated</string>
+    <string name="update_item_successful">Product successfully updated</string>
+    <string name="insert_dummy">insert dummy</string>
+    <string name="delete_all">delete all</string>
+    <string name="save">Save</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_price">Product Price</string>
+    <string name="product_quantity">Product Quantity</string>
+    <string name="supplier_name">Supplier Name</string>
+    <string name="supplier_phone">Supplier Phone Number</string>
+    <string name="store_empty">Store is empty</string>
+    <string name="add_to_store">Add Items</string>
+</resources>
